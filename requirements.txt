@@ -1,6 +1,4 @@
 streamlit
 pandas
 requests
-pickle
-os
-dotenv
+python-dotenv
